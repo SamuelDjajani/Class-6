@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helevetica, san-serif;
+  background-color: cadetblue;
+}
+
+h1 {
+  color: azure;
+  background-color: black;
+  text-align-last: center;
+}
+h2 {
+  color: azure;
+  background-color: blue;
+  text-align-last: left;
+}
+
+h3 {
+  background-color: gold;
+  text-align-last: center;
+}
+
+div {
+  max-width: 720px;
+  margin: auto;
+  background-color: aliceblue;
+  padding: 25px;
+}
